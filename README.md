@@ -1,23 +1,74 @@
-# Hi there, I'm Selva Kishore 👋
-*1st Year Computer Science Student*
+# 👋 Hi, I'm Selva Kishore!
+
+### 🎓 First-Year B.E. Computer Science Engineering Student | 💻 Aspiring Software Developer
+
+Welcome to my GitHub profile! 🚀
+
+I'm a Computer Science Engineering student passionate about programming, technology, problem-solving, and building creative digital solutions. I'm currently developing my technical skills and exploring the exciting world of software development.
 
 ---
 
-### 🚀 About Me
-- 🎓 First-year college student exploring the world of software development.
-- 💻 Currently building my foundation in programming and core concepts.
-- 🌱 I’m currently learning: **Python** and **C**.
-- 🎯 Goals: Build cool projects, contribute to open source, and grow as a developer.
-- 📫 How to reach me: `selvakishore4628@gmail.com`
+## 🧑‍💻 About Me
+
+* 🎓 Pursuing **B.E. in Computer Science Engineering**
+* 🌱 Continuously learning programming and software development.
+* 💡 Interested in building innovative projects and solving real-world problems.
+* 🚀 Exploring web development, UI/UX design, and emerging technologies.
+* 🤝 Open to learning, collaboration, and connecting with fellow developers.
+* 🎯 Goal: Become a skilled software engineer and create meaningful technology solutions.
 
 ---
 
-### 🛠 Tech & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=selvakishore4628&show_icons=true&theme=dark)
+## 🚀 Current Goals
+
+* 📚 Strengthen my programming fundamentals.
+* 🧠 Improve logical thinking and problem-solving skills.
+* 💻 Build practical projects and interactive websites.
+* 🏆 Participate in hackathons and technical competitions.
+* 🌟 Explore open-source development and collaborative coding.
+
+---
+
+## 📂 My Projects
+
+I'm building my portfolio through academic work, coding practice, and creative projects.
+
+🔹 **Programming Practice** — Learning programming concepts through hands-on exercises.  
+🔹 **Web Development** — Exploring how to create attractive and user-friendly websites.  
+🔹 **Innovation Projects** — Developing ideas into practical solutions for real-world challenges.
+
+Check out my repositories to follow my learning journey!
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvakishore4628&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvakishore4628&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=selvakishore4628&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: [selva-kishore-a2615b41b](https://www.linkedin.com/in/selva-kishore-a2615b41b)
+* 📧 Email: selvakishore4628@gmail.com
+* 🐙 GitHub: [selvakishore4628](https://github.com/selvakishore4628)
+
+---
+
+### 💫 My Motto
+> "Learn something new every day. Build something meaningful. Keep moving forward."
+
+🚀 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
